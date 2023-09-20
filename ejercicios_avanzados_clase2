@@ -1,0 +1,45 @@
+### Ejercicios avanzados ###
+# Solo puede preguntar sobre los ejercicios avanzados si ya ha completado los ejercicios básicos
+# La respuesta de los ejercicios avanzados está en todos los ejercicios básicos
+
+
+# si en su sesión se han definido objetos (vectores, tablas... etc) eliminelos
+
+
+# calcule 2.25 al cubo
+
+
+# calcule la raiz cuadrada de 10
+
+
+# defina "calificaciones" como la secuencia de -100 a 100
+
+
+# seleccione todos los elementos de "calificaciones" menos los primeros 135
+
+
+# seleccione el 5o elemento de calificaiones (debe ser -96)
+
+
+# redefina "calificaciones" multiplicando todos los elementos por 1.4
+
+
+# redefina "calificaciones" seleccionando del 104o al 108o elemento
+
+
+# redefina "calificaciones" invirtiendo su orden (debe obtener 9.8 8.4 7.0 5.6 4.2)
+
+
+# defina "alumnos" como el vector cuyos elementos son "laura" "mario" "tadeo" "luz" "ana"
+
+
+# defina el vector "edad" como el vector cuyos elementos son 17 20 19 18 17
+
+
+# defina la tabla "mi_grupo" cuyas columnas sean "alumnos", "calificaciones" y "edad"
+
+
+# seleccione las DOS primeras hileras de la TERCER columna de "mi_grupo"
+
+
+# seleccione los nombres de los alumnos que sean legalmente adultos
